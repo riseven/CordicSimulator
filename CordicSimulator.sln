@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual C# Express 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CordicSimulator", "CordicSimulator\CordicSimulator.csproj", "{831B2767-D992-4BA3-A8F1-D9B73C63014B}"
 EndProject
 Global
